@@ -18,8 +18,8 @@ const int SERIAL_BAUD_RATE = 115200;
 
 // ========== WiFi CONFIGURATION ==========
 // Update these with your network credentials
-const char* WIFI_SSID = "YOUR_WIFI_SSID";
-const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
+const char* WIFI_SSID = "YOUR_WIFI_NETWORK_NAME";     // Replace with your WiFi name
+const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";      // Replace with your WiFi password
 const int WEB_SERVER_PORT = 80;
 
 // ========== ECG SAMPLING SETTINGS ==========
